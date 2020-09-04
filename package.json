@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/abdulnine7/Node-Portfolio#readme",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
